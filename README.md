@@ -1,6 +1,6 @@
 # Magento 2 Instagram Extension
 
-[Magento 2 Instagram](https://www.ulmod.com/instagram-for-magento-2.htmll)  is a Magento 2 extension that allows you to display Instagram images in your store and increase followers engagement
+[Magento 2 Instagram](https://www.ulmod.com/instagram-for-magento-2.html)  is a Magento 2 extension that allows you to display Instagram images in your store and increase followers engagement
 
 With Magento 2 Instagram, you can add auto-fetch images from your Instagram account and display them at any page and position of your site.
 
