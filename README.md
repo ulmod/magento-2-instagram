@@ -8,14 +8,13 @@ With Magento 2 Instagram, you can auto-fetch images from your Instagram account 
 
 ## Key Features
 
-* Ability to auto-fetch images of your Instagram profile display at your site
+* Ability to auto-fetch images of your Instagram profile, and display at your site
 * Ability to display Instagram images by image tag, user, or location
-* Support widgets to display Instagram images at any page  and position of your store
-* Ability to display images per row 
-* Ability to display to change the images per row, from 2, 3, 4, 5 or 6
-* Ability to limit the number of images to display in the storefront.
+* Support widgets to display Instagram images at any page  and position of your site
+* Ability to display images per row
+* Ability to limit the number of images to display in the storefront
 * Support "thumbnail", "low" and "standard resolution" images size
-* Support eight sorting options 
+* Support sorting options 
 * Mobile-friendly
 * Support multiple-stores
 
